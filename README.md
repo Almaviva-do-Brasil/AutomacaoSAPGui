@@ -39,6 +39,6 @@ Todo ambiente pronto agora é mão no código.
 
 Calma que vamos analisar linha por linha calmamente.
 
-Veja o vídeo abaixo com os detalhes para fazer a automação.
+Veja o [vídeo](https://www.youtube.com/watch?v=NTTcGfEN6As) com os detalhes para fazer a automação.
 
 ## [Acesse tambem Automação no SAP Analytics Cloud](https://github.com/cirojunior/AutomacaoExportSAC)
